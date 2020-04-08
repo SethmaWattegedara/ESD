@@ -4,4 +4,8 @@ pasta
 rice
 Chicken fry
 
+Beans
+Pizza
+
+
 Thank you
